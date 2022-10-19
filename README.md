@@ -9,7 +9,6 @@ Electrical Engineer and Full-Stack Web/Software Developer
 \+ Training in full-stack software and web development (Web 3.0 and Web 2.0).
 
 * 🌍  I'm based in Tema, Ghana
-[* ✉️  You can contact me at [kwabenasapong@gmail.com](mailto:kwabenasapong@gmail.com)]:#
 
 
 ### Actual Skills
@@ -61,8 +60,8 @@ Electrical Engineer and Full-Stack Web/Software Developer
 
 
 [**kwabenasapong/kwabenasapong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.]:#
-
 [Here are some ideas to get you started:]:#
+
 
 [- 🔭 I’m currently working on ...]:#
 [- 🌱 I’m currently learning ...]:#
