@@ -1,7 +1,7 @@
 Hi 👋 My name is Kwabena Boadi Sapong
 =====================================
 
-Electrical Engineer and Full-Stack Web/Software Developer
+Electrical Engineer and Full-Stack Software Engineer
 ---------------------------------------------------------
 
 \+ 10+ years in the engineering field across a wide variety of disciplines in Electrical and Electronic Engineering.
