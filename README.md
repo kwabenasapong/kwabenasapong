@@ -6,7 +6,7 @@ Electrical Engineer and Full-Stack Software Engineer
 
 \+ 10+ years in the engineering field across a wide variety of disciplines in Electrical and Electronic Engineering.
 
-\+ Full-stack Software Engineer (Web 3.0 and Web 2.0).
+\+ Full-stack Software Engineer
 
 * 🌍  I'm based in Tema, Ghana
 
