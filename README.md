@@ -6,7 +6,7 @@ Full-Stack Software & Electrical Engineer
 
 \+ 10+ years in the engineering field across a wide variety of disciplines in Electrical and Electronic Engineering.
 
-\+ Full-stack Software Engineer
+\+ Full-stack Software Engineer (ALX SE Graduate)
 
 * 🌍  I'm based in Tema, Ghana
 
