@@ -9,6 +9,7 @@ Full-Stack Software & Electrical Engineer
 \+ Full-stack Software Engineer (ALX SE Graduate)
 
 * 🌍  I'm based in Tema, Ghana
+* Check my tech articles out @ https://kwabenasapong.hashnode.dev/
 
 
 ### Skills
